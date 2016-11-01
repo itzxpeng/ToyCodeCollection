@@ -1,0 +1,1 @@
+Some toy code about daily test.
